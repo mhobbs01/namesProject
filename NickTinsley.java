@@ -1,9 +1,8 @@
 public class NickTinsley
 {
-	//class for printing my name
-	public static void printNickTinsley()
+	public NickTinsley()
 	{
 		System.out.println("Alfred Nicholas Tinsley");
 	}
-
+	
 }
